@@ -1,0 +1,5 @@
+toilet-paper 0
+orange 100
+hand-sanitizer 0
+speakers 12
+iphone 5
